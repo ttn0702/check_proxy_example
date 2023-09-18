@@ -1,4 +1,23 @@
 import requests
+'''
+{
+    'status': 'success',
+    'country': 'Vietnam',
+    'countryCode': 'VN',
+    'region': 'DN',
+    'regionName': 'Da Nang',
+    'city': 'Cam Le',
+    'zip': '',
+    'lat': 16.0292,
+    'lon': 108.223,
+    'timezone': 'Asia/Ho_Chi_Minh',
+    'isp': 'HUNASOFT',
+    'org': 'Hunasoft Technology Solution Consulting Co.,
+    Ltd',
+    'as': 'AS135967 Bach Kim Network solutions Join stock company',
+    'query': '103.179.174.201'
+}
+'''
 proxy = {
     'username':'PVN86079',
     'password':'d06mlKxg',
